@@ -14,17 +14,17 @@
         "",
         ""
     ],
-    "eventDisabled": [],
+    "eventEnabled": [],
     "BOTOWNER": "HERO",
     "OWNERLINK": "https://www.facebook.com/profile.php?id=61563309906630",
     "OWNERID": "61563309906630",
     "BOTCREATOR": "HERO",
     "CREATORLINK": "https://www.facebook.com/profile.php?id=61563309906630",
     "CREATORID": "61563309906630",
-    "BOTNAME": "𝐋𝐄𝐀𝐑𝐍 𝐅𝐎𝐑 𝐁𝐄𝐆𝐈𝐍𝐍𝐄𝐑𝐒",
+    "BOTNAME": "Bot hun y'all",
     "PREFIX": ".",
     "ADMINBOT": [
-        "69471605",
+        "61563309906630",
         "",
         "",
         "",
@@ -215,3 +215,4 @@
     }
 
 }
+
